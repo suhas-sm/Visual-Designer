@@ -65,7 +65,7 @@ header{
     }
     header{
         height: fit-content;
-        border: 2px solid red;
+        
         
     }
     main div img{
@@ -130,7 +130,7 @@ button{
 @media only screen and (max-width:768px){
     .skills{
         height: 100px;
-        border: 2px solid yellow;
+        
         display: flex;
        
     }
@@ -138,10 +138,8 @@ button{
         display: grid;
         grid-template-columns: 1fr ifr;
         grid-template-rows: 1fr 1fr;
-        border: 2px solid green;
-        /* position: absolute; */
-        /* margin-top: 30em; */
-        /* flex-wrap: wrap; */
+        
+        
         width: 100%;
         
     }
@@ -150,7 +148,7 @@ button{
     }
     .achivements{
         flex-direction: column;
-        /* position: absolute; */
+       
         bottom: 0;
         height: fit-content;
         padding-bottom: 40px;
