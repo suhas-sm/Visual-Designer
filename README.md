@@ -1,4 +1,4 @@
-# Visual Designer [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
+# Visual Designer
 
 Visual-Designer-Portfolio Template Project Template Project
 This is basically a fully blown website project made in HTML/CSS with 4 to 5 web pages for an imaginary visual designer on the internet.
