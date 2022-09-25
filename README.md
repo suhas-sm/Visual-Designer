@@ -6,8 +6,8 @@ This is basically a fully blown website project made in HTML/CSS with 4 to 5 web
 Hope you like my project !! it works good in laptop screen and mobile.
 
 ## Technologies Used
-  - HTML - Hyper Text Markup Language
-  - CSS - Cascadeing Spread Sheet
+  - HTML
+  - CSS
   - CSS Flex Box
 
 ## Demo
@@ -30,10 +30,6 @@ Go to the project directory
 ```bash
   cd Visual-Designer
 ```
-## Author and Contact
-- [Find-coder](https://www.findcoder.io/u/suhas_sm)
-    - [![facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suhas.melmuri)
-    - [![instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_suhas_sm/)
 
 ## Features
 
